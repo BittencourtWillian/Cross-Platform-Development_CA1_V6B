@@ -20,12 +20,6 @@ The frameworks will be evaluated based on:
 - Maintainability
 - Integration with proprietary systems
 
-Initial Comparison Table
-
-Notes
-
-Further detailed analysis will be added in the next stage.
-
 ## Introduction
 
 This section provides a comparative analysis of Flutter, React Native, and .NET MAUI in the context of ACME Fintech’s requirements. The application must support mobile, web, and desktop platforms while ensuring high performance, security, scalability, and maintainability.
